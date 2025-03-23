@@ -121,12 +121,12 @@ const HeroSection = () => {
                   <p className="flex items-center gap-2">
                     <span className="inline-block">🔗</span>
                     <a
-                      href="https://linktr.ee/AlexRosales.Dev"
+                      href="https://udita-portfolio.vercel.app/"
                       className="text-blue-400 hover:text-blue-300 transition-colors"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      linktr.ee/AlexRosales.Dev
+                      https://udita-portfolio.vercel.app/
                     </a>
                   </p>
                 </div>
