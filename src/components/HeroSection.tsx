@@ -38,7 +38,7 @@ const HeroSection = () => {
             backgroundPosition: "center 30%",
           }}
         >
-          <div
+          {/* <div
             className={`absolute left-1/2 transform -translate-x-1/2 transition-all duration-500 delay-200 ${
               animate ? "opacity-100 top-32" : "opacity-0 top-36"
             }`}
@@ -58,7 +58,7 @@ const HeroSection = () => {
                 }}
               />
             </div>
-          </div>
+          </div> */}
         </div>
 
         {/* Profile section */}
@@ -92,7 +92,7 @@ const HeroSection = () => {
               }`}
             >
               <img
-                src="public/WhatsApp Image 2025-03-22 at 3.15.14 AM.jpeg"
+                src="/avatar.jpeg"
                 alt="Udita"
                 className="h-full w-full object-cover"
               />
